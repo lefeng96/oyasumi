@@ -1,3 +1,3 @@
-# DiscordBot
+# Lightning
 
-A bot written in Java for Discord.
+A bot written in JavaScript for Discord.
