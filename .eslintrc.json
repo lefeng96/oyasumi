@@ -26,7 +26,8 @@
     "prefer-template": "off",
     "default-case": "off",
     "array-callback-return": "off",
-    "no-underscore-dangle": "off"
+    "no-underscore-dangle": "off",
+    "class-methods-use-this": "warn"
   },
   "comma-dangle": 0
 }
