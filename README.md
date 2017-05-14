@@ -1,4 +1,4 @@
-# Lightning
+# Oyasumi
 
 A bot written in JavaScript for Discord.
 
