@@ -11,7 +11,7 @@ class DiceRoll extends commando.Command {
       });
   }
 
-  async run(msg, args) {
+  async run(msg) {
     const roll = Math.floor(Math.random() * 6) + 1;
     msg.channel.send(`You rolled a ${roll}!`);
   }
