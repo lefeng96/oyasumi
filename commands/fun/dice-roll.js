@@ -7,7 +7,7 @@ class DiceRoll extends commando.Command {
         name: 'roll',
         group: 'fun',
         memberName: 'roll',
-        description: 'Rolls a dice',
+        description: 'Rolls a die',
       });
   }
 
