@@ -1,5 +1,5 @@
 {
-  "name": "discordbot",
+  "name": "oyasumi",
   "version": "1.0.0",
   "description": "A bot written in JavaScript for Discord.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevintongg/DiscordBot.git"
+    "url": "git+https://github.com/kevintongg/oyasumi.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kevintongg/DiscordBot/issues"
+    "url": "https://github.com/kevintongg/oyasumi/issues"
   },
-  "homepage": "https://github.com/kevintongg/DiscordBot#readme",
+  "homepage": "https://github.com/kevintongg/oyasumi#readme",
   "dependencies": {
     "discord.js": "^11.1.0",
     "discord.js-commando": "^0.9.0",
